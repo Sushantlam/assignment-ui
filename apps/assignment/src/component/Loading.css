@@ -1,0 +1,9 @@
+@keyframes skeleton {
+    to {
+      opacity: 0.5;
+    }
+  }
+  
+  .skeleton-animation {
+    animation: skeleton 1s ease infinite alternate;
+  }
