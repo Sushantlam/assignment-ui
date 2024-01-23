@@ -18,6 +18,9 @@ module.exports = {
     },
     extend: {
       colors: {
+        'pink-primary': '#FE69A4',
+        'pink-gradient': '#E56DD1',
+        
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",
         ring: "hsl(var(--ring))",
